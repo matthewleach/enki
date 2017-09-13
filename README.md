@@ -46,7 +46,9 @@ Leading is the space between what? ???
 ---
 ## Practice 2
 
+\/ Note: Graphic below will be cropped accordingly, but wanted to showcase the image in the existing app.  
 ![Typography: Leading](https://i.imgsafe.org/88/8866f30d50.png)
+
 
 ---
 
