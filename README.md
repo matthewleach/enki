@@ -46,7 +46,7 @@ Leading is the space between what? ???
 ---
 ## Practice 2
 
-![Typography: Leading](https://i.imgsafe.org/87/87c983a874.png)
+![Typography: Leading](https://i.imgsafe.org/88/8866f30d50.png)
 
 ---
 
