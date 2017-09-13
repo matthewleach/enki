@@ -17,7 +17,7 @@ links:
 ---
 ## Content
 
-[I'll create a graphic with labels for for leading here]
+![Typography: Leading](https://i.imgsafe.org/88/88328c494d.png)
 
 Leading is the vertical space between lines of text, from the baseline (the bottom of such letters like 'a') to the top of the letters below. Descenders, from letters such as 'j' and 'g', fall under the baseline and within the leading. 
 
@@ -46,6 +46,6 @@ Leading is the space between what? ???
 ---
 ## Practice 2
 
-![Alt text](https://i.imgsafe.org/87/87c983a874.png)
+![Typography: Leading](https://i.imgsafe.org/87/87c983a874.png)
 
 ---
