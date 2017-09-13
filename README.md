@@ -19,7 +19,7 @@ links:
 
 ![Typography: Leading](https://i.imgsafe.org/88/88328c494d.png)
 
-Leading is the vertical space between lines of text measured between the baselines. Descenders, from letters such as 'j' and 'g', fall under the baseline and within the leading. 
+Leading is the vertical space separating lines of text measured between the baselines. Descenders, from letters such as 'j' and 'g', fall under the baseline and within the leading. 
 
 Leading is pronounced as *ledding* and earned its name from the actual bars of lead that where used to separate lines of text in the printing press. 
 
@@ -54,7 +54,7 @@ Leading is the space between what? ???
 
 Leading originally earned its name from? ???
 
-- Ancient Caves
+- Apple Computer
 - Calligraphy
 - The printing press
 - Microsoft Word
