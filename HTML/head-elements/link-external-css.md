@@ -1,5 +1,5 @@
 # Link (External CSS)
-author: mihaiberq
+author: matthew-leach
 
 levels:
   - beginner
@@ -15,32 +15,71 @@ tags:
 ---
 ## Content
 
-
 New content to go here. The author must be updated to match a valid Enki account.
 
 ---
 ## Practice
 
-What does this HTML do: <a>sample text<a>
+Complete the HTML code to link an external stylesheet. 
+```
+<head>
+  <??? ???="???" ???="???">
+</head>
+```
+
+* `link`
+* `href`
+* `mystyle.css`
+* `rel`
+* `stylesheet`
+* `src`
+* `type`
+* `mypage.html`
+
+
+When are external stylesheets better to use than internal stylesheets?
 
 ???
 
-* Display text, but requires additional attributes to link.
-* Links to a specific part of a website when user clicks the text.
-
+* when the styles are needed to use throughout the website.
+* when the styles explicially only effect the elements on that single page.
+* when filesize isn't neccessarly important to keep as minimum as possible. 
+* when the style is needed only for a single element. 
+* external stylesheets are never better than internal stylesheets. 
 
 ---
 ## Revision
 
-External CSS stylesheets referenced by multiple HTML pages provides what two primary benefits?
+Which line of code links an external stylesheet?
 
 ???
 
-When linking to an external CSS stylesheet using:
-     <link rel="stylesheet" href="styles.css">
-    … this code needs to be placed within which HTML element?
+* `<link href="mystyle.css" rel="stylesheet">`
+* `<style href="mystyle.css" rel="stylesheet">`
+* `<link src="mystyle.css" rel="stylesheet">`
+* `<style src="mystyle.css" rel="stylesheet">`
+* `<style src="mystyle.css" rel="css">`
+
+---
+## Quiz
+
+What commonly used attribute is not needed to load external stylesheets in HTML5 pages? 
+
+```<head>
+  <link rel="stylesheet" type="text/css" href="theme.css">
+</head>```
 
 ???
-* Easier maintenance
-* Reduced file size / Bandwidth
+
+* type="text/css"
+* rel="stylesheet"
+* link
 * head
+* href="style.css"
+
+
+
+
+
+
+

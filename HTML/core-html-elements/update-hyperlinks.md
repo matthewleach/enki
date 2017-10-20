@@ -1,5 +1,5 @@
 # Hyperlinks
-author: mihaiberq
+author: matthew-leach
 
 levels:
   - beginner
@@ -15,59 +15,92 @@ tags:
 ---
 ## Content
 
-
 There's another file to be updated on this topic, called `hyperlinks.md`. 
 
 ---
 ## Practice
 
-Which of these is not true about links?
+Link text that opens the webpage in a new window:
 
-???
+`<??? ???="???" ???="???">Link to Enki<???>`
 
-What statement about this code is true:
-      <p><a href=”http://enkilabs.com''>Click Me</a></p>
-      <a href=”http://enkilabs.com''><p>Click Me</p></a>
-
-???
-
-When will the cursor change to a pointer with the following code?
-    <main>
-      <a href="http://www.enkipro.com">Check out Enki</a>
-    </main>
-
-???
-
-Match the tags, attributes, and values that will make the link valid:
-  <??? ???=”???”>
-
-
-* Link do not require a closing tag.
-* Both options are valid, although best to place links within paragraphs.
-* When the mouse hovers over the text within the <a> element.
-* a
+* a 
 * href
 * http://enkipro.com
-* The <a> tag stands for anchor.
-* href stands for hypertext reference
-* HTML5 requires HTML links to be placed within paragraphs.
-* HTML5 requires HTML links to be placed around entire paragraphs.
-* Neither is valid HTML.
-* When the mouse hovers over the main element.
-* Anywhere on the web page.
-* The cursor doesn’t change.
-
+* target
+* _blank
+* /a
+* img
+* link
+* /link
+* src
+* _new
 
 ---
 ## Revision
 
-Anchor links can only be assigned to text.
-        <p>Click this <a href="http://enkipro.com">link</a> to visit the EnkiPro website.</p>
-How would an image be linked?
-       ??? ??? ??? ??? ???
+Which line of code will link text to open a new window?
 
-* <a>
-* href="http://enkipro.com”
-* <img>
-* src=”images/enki-logo.svg”
-* </a>
+???
+
+* `<a href="http://enkipro.com" target="_blank">Link to Enki</a>`
+* `<link href="http://enkipro.com" target="_blank">Link to Enki</link>`
+* `<a src="http://enkipro.com" target="_blank">Link to Enki</a>`
+* `<a href="http://enkipro.com" target="_new">Link to Enki</a>`
+
+How is a placeholder link created, where the link works, but it doesn't open a new page?
+
+`<a href="???">Empty href</a>`
+
+* #
+* ""
+* *
+* _empty
+* _self
+* Leave empty
+
+---
+## Quiz
+
+Which statement about these paragraphs & links is true?
+
+```
+<p><a href="http://enkipro.com">Click Me</a></p>
+<a href="http://enkipro.com"><p>Click Me</p></a>
+```
+
+???
+
+* Both options are valid, although best to place links within paragraphs.  
+* Both options are valid, although best to place paragraphs within links.  
+* HTML links are required to be placed within paragraphs to be valid. 
+* HTML links are required to be placed around entire paragraphs to be valid. 
+* Neither line in this example is valid HTML. 
+
+When will the cursor change to a pointer with the following code?
+
+```
+<main>
+  <a href="http://www.enkipro.com">Check out Enki</a>
+</main>
+```
+
+When the mouse hovers: ???
+
+* over the text within the `<a>` element.
+* anywhere within the `<main>` element.
+* anywhere within the web page.
+* The cursor doesn’t change in this case.
+
+What is the default style of a text link in HTML?
+
+???
+
+* It is blue and underlined. 
+* It is blue and bold.
+* There is no visual change to a text link.
+* The cursor changes to pointer when hovered over it.
+* The cursor doesn't change.
+
+
+

@@ -30,7 +30,6 @@ Which of these characters is used to represent an end tag?
 * >
 * *
 
-
 HTML tags are recommended to be written in which case?
 
 ???
@@ -48,11 +47,11 @@ How many tags are used in this code:
 
 ???
 
-* 1
+* 5
 * 2
 * 3
 * 4
-* 5
+* 1
 * 6
 
 What is an HTML element called that does not having a closing tag?
@@ -87,7 +86,7 @@ What is the different between an opening and closing HTML tag?
 ---
 ## Quiz
 
-Which language requires HTML tags to be written in lowercase and then influences why  developers continue to write HTML tags that way?
+Which language requires HTML tags to be written in lowercase and has influenced  developers to continue to write HTML tags that way?
 
 ???
 

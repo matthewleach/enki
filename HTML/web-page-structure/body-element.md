@@ -15,39 +15,61 @@ tags:
 ---
 ## Content
 
-
 New content to go here. The author must be updated to match a valid Enki account.
 
 ---
 ## Practice
 
-Which of these items are commonly found in the body of HTML pages?
+Organize the structure of a simple HTML web page:
 
 ???
-
-Provide visual with drag/drop or labels (A,B,C,D) and have users identify each block properly.
-  ??? ??? ??? ??? ??? ??? ???
-
-
-Which HTML element is used to hold text and other elements that are shown directly on the web page?
-
+???
+ ???
+  `<title>Enki</title>`
+ ???
+ ???
+  `<h1>enki</h1>`
+  `<p>We provide daily dev workouts.</p>`
+ ???
 ???
 
-* text, images, links
-* <!DOCTYPE html>
-* <html>
-* <head>
-* </head>
-* <body>
-* </body>
-* </html>
-* body
-
+* `<!DOCTYPE html>`
+* `<html>`
+* `<head>`
+* `</head>`
+* `<body>`
+* `</body>`
+* `</html>`
+* `<main>`
+* `</main>`
 
 ---
 ## Revision
 
-The body element holds the text, images, links, page title, and meta data for every HTML document.
+Which HTML element is used to hold all of the page content that displays within the browser?
 
 ???
-* F
+
+* `<body>`
+* `<html>`
+* `<body>`
+* `<main>`
+* `<doctype>`
+
+---
+## Quiz
+
+Which element has a default margin of 8px creating space around the border of the entire page?
+
+`<INSERT IMAGE>`
+`Something better than: https://codepen.io/shoutmatt/pen/ZXMJzj`
+
+???
+
+* body
+* html
+* head
+* doctype
+* p
+
+

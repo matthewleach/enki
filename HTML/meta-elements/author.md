@@ -1,5 +1,5 @@
 # Author
-author: mihaiberq
+author: matthew-leach
 
 levels:
   - beginner
@@ -15,14 +15,47 @@ tags:
 ---
 ## Content
 
-
 New content to go here. The author must be updated to match a valid Enki account.
 
 ---
 ## Practice
 
-What is not true about the author meta tag?
+Write the meta tag that states that 'John Doe' built the web page. 
+
+<??? ????="???" ????="???">
+
+* meta
+* name
+* author
+* content
+* John Doe
+* developer
+* creator
+* person
+
+---
+## Revision
+
+Which line of code shares info about the creator of the web page?
 
 ???
 
-* It improves the search engine results.
+* `<meta name="author" content="John Doe">`
+* `<meta creator="author" content="John Doe">`
+* `<meta author="name" content="John Doe">`
+* `<meta name="author" author="John Doe">`
+* `<meta name="author" creator="John Doe">`
+
+---
+## Quiz 
+
+What is the least influential tag for search engines in a web page?
+
+???
+
+* Author
+* Title
+* Description
+* Headings 
+* Paragraphs  
+

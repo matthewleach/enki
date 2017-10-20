@@ -62,7 +62,7 @@ Typically, all web files of the same web site are saved where?
 * in the same primary folder.
 * HTML files in "html" folder & CSS in "css" folder.
 * in separate primary folders.
-* file structor doesn’t really matter.
+* file structure does not really matter.
 
 
 ---

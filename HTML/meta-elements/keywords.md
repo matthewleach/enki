@@ -1,5 +1,5 @@
 # Keywords
-author: mihaiberq
+author: matthew-leach
 
 levels:
   - beginner
@@ -15,23 +15,40 @@ tags:
 ---
 ## Content
 
-
 New content to go here. The author must be updated to match a valid Enki account.
 
 ---
 ## Practice
 
-Which tag has the least amount of influence in the search engine ranking of your web page?
+Keywords are fairly pointless today in helping search engines to properly identify and rank your web page.
 
 ???
 
-* (Title, Description, Keywords, Text within Webpage)
-
+* True
+* False
 
 ---
 ## Revision
 
-Keywords are fairly pointless today in helping search engines to properly identify and rank your web page.
+Which tag is the least influential tag for search engines in a web page?
 
 ???
-* T
+
+* Keywords
+* Title
+* Description
+* Headings 
+* Paragraphs 
+
+---
+## Quiz
+
+What is the least influential tag for search engines in a web page?
+
+???
+
+* Keywords
+* Title
+* Description
+* Headings 
+* Paragraphs  

@@ -34,8 +34,7 @@ In regards to HTML comments, which of the following is true?:
 ---
 ## Revision
 
-Which option is not true: 
-HTML comments using this code `<!-- stuff here -->`, can...
+Which option is NOT true: "HTML comments using this code `<!-- stuff here -->`, can..."
 
 ???
 
@@ -48,12 +47,14 @@ HTML comments using this code `<!-- stuff here -->`, can...
 ---
 ## Quiz
 
-What is happened to the heading text?
+What is happening to this heading text?
 ```
 <!--<h1>Heading</h1>-->
 ```
 
-* It is not displaying in the web page.
+???
+
+* It is not displayed in the browser.
 * It is displayed larger than normal.
-* It is displayed as normal.
+* It is displayed as a Heading 1 in the web page.
 * It is removed from the HTML code. 

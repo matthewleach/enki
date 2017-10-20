@@ -49,7 +49,7 @@ A .CSS page will appear as what when opened in a browser?
 ---
 ## Quiz 
 
-How are HTML and CSS pages viewed alone without the other within a web browser?
+How do HTML & CSS files appear in a browser when viewed alone without the other?
 
 HTML: ???
 CSS: ???

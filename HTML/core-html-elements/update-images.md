@@ -1,5 +1,5 @@
 # Images
-author: mihaiberq
+author: matthew-leach
 
 levels:
   - beginner
@@ -15,61 +15,76 @@ tags:
 ---
 ## Content
 
-
 New content to go here. The author must be updated to match a valid Enki account.
 
 ---
 ## Practice
 
-Why are height and width HTML attributes useful vs setting the size in CSS?
+Write the code to insert an image:
 
-???
+`<??? ???="???" ???="Enki Logo">`
 
-Match the tags, attributes, and values that will make the img valid:
-  <??? ???=”???”>
-
-
-Which HTML tag is used to insert images into the web page?
-
-???
-
-* If height and width are not set using HTML, the space required for the image cannot be reserved when the page is loaded and page layout will change while the images load.
-* img
+* img 
 * src
 * images/logo.svg
-* img
-* pic
-* src
+* alt
+* image
 * a
-
+* href
+* photo
+* images/logo.img
 
 ---
 ## Revision
 
-Which of these are not common web image formats:
+Which line of code will place an image into the HTML page?
 
 ???
 
-If a image does not have an assigned height and width, how will the image display within a web page?
-
-???
+* `<img src="image.jpg" alt="Image Description">`
+* `<image src="image.jpg" alt="Image Description">`
+* `<img href="image.jpg" alt="Image Description">`
+* `<img alt="image.jpg" src="Image Description">`
+* `<img alt="image.jpg" desc="Image Description">`
 
 If an image cannot load properly in a web page, what attribute will display text in its place?
 
 ???
 
-Which line of code will place an image into the HTML page?
-
-???
-* IMG
-* It will appear at the actual height and width, regardless of the rest of the content on the page.
 * alt
-* <img src="image.jpg" alt="Image Description">
-* PNG, SVG, GIF, JPG
 * src
 * href
 * title
-* description
-* <image src="image.jpg" alt="Image Description">
-* <img href="image.jpg" alt="Image Description">
-* <img alt="image.jpg" src="Image Description">
+* desc
+
+Which of these are not a common web image format: 
+
+???
+
+* .img
+* .png
+* .svg
+* .gif
+* .jpg 
+
+---
+## Quiz
+
+Why is assigning height & width attributes to an image size more useful than setting the image size in CSS?
+
+???
+
+* Page loads with assigned space for images preventing layout shifts. 
+* Using HTML height & width attributes is never better than CSS.
+* When image size needs to override the CSS size setting.
+* When the height and width is differen than the default image size.
+
+If a image does not have an assigned height and width using HTML or CSS, how will the image display within a web page?
+
+???
+
+* At its original image size.
+* Will resize filling the container it is within. 
+* Will resize by default to 100px wide.
+* It will only resize if the image is larger than the viewing area.
+

@@ -1,5 +1,5 @@
 # Paragraphs
-author: mihaiberq
+author: matthew-leach
 
 levels:
   - beginner
@@ -15,15 +15,49 @@ tags:
 ---
 ## Content
 
-
 New content to go here. The author must be updated to match a valid Enki account.
 
+---
+## Practice
 
+Which HTML tags create a paragraph of text?
+
+???
+
+* `<p>Text Here</p>`
+* `<para>Text Here</para>`
+* `<p>Text Here<p>`
+* `</p>Text Here</p>`
+* `<paragraph>Text Here</paragraph>`
 
 ---
 ## Revision
 
-By default, 18 pixels of space are added between paragraphs of text.
+The `<p>` tag is used in HTML to do what?
 
 ???
-* F
+
+* Start a paragraph
+* End a paragraph
+* Adds passcode
+* Start a page
+* Represents pixel
+* Adds portal
+
+---
+## Quiz
+
+What is the default HTML text size of a paragraph in a browser?
+
+???
+
+* 16 pixels
+* 10 em
+* 8 em
+* 4 em
+* 12 pixels
+* 14 pixels
+
+
+
+

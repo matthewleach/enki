@@ -26,12 +26,14 @@ What are the two attributes of this code?
 ???
 ???
 
-* href="https://www.enkipro.com"
-* target="_blank"
+* href
+* target
 * `<p>`
 * `<a>`
 * `</p>`
 * `</a>`
+* https://www.enkipro.com
+* _blank
 
 Attribute values should always be enclosed within what symbols?
 

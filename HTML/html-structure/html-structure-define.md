@@ -20,8 +20,12 @@ New content to go here. The author must be updated to match a valid Enki account
 ---
 ## Practice
 
-Match the names defining this HTML code:
-```<INSERT IMAGE=<a href="http://enkipro.com/">Enki</a>```
+Match the terms defining this HTML code:
+
+<!-- A  B      C                        D -->
+<!--<a href="http://enkipro.com/">Enki</a>-->
+
+<!-- IMAGE: html-structure-define.svg -->
 
 A: ???
 B: ???
@@ -40,8 +44,12 @@ D: ???
 ---
 ## Revision
 
-Match the names defining this HTML code:
-```<INSERT IMAGE=<a href="http://enkipro.com/">Enki</a>```
+Match the terms defining this HTML code:
+
+<!-- A  B      C                        D -->
+<!--<a href="http://enkipro.com/">Enki</a>-->
+
+<!-- IMAGE: html-structure-define.svg -->
 
 A: ???
 B: ???
@@ -56,8 +64,12 @@ D: ???
 ---
 ## Quiz
 
-Match the names defining this HTML code:
-```<INSERT IMAGE=<a href="http://google.com/">Google</a>```
+Identify the terms defining this HTML code:
+
+<!-- A  B      C                        D -->
+<!--<a href="http://enkipro.com/">Enki</a>-->
+
+<!-- IMAGE: html-structure-define.svg -->
 
 A: ???
 B: ???
